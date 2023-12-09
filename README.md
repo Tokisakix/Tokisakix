@@ -11,5 +11,3 @@ Major in Computer Science and Technology
 📫 You can reach me by mailing xurlin5@mail2.sysu.edu.cn!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokisakix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://raw.githubusercontent.com/Tokisakix/Tokisakix/main/assets/github-contribution-grid-snake.svg)
