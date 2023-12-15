@@ -1,6 +1,6 @@
 <h2 align="center"> Tokisakix </h2>
 
-<h4 align="center"> Realize Alicezation </h4>
+<h4 align="center"> For Realizing The Alicezation </h4>
 
 Sun Yat-sen University (SYSU) School of Computer Science and Engineering
 
