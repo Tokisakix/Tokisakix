@@ -12,6 +12,8 @@ Major in Computer Science and Technology
 
 😉 View my web site at http://tokisakix.cn
 
+view my openreview site at https://openreview.net/profile?id=~Ruilin_Xu3
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokisakix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![img1](img1.png)
