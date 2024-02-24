@@ -16,4 +16,4 @@ Major in Computer Science and Technology
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokisakix&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![img1](img1.png)
+![img1](bg.png)
